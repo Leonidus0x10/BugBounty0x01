@@ -1,0 +1,14 @@
+links+++++++++++++++++++++++++++
+
+this is what gave away that they have wordpress. they use Oauth via google for their admin page. 
+
+https://www.visma.com/blog/wp-content/plugins/user-avatar/user-avatar-pic.php?src=/wp-content/uploads/avatars/530/1445346224-bpfull.jpg&w=90&id=530&random=1445346224
+that might allow us to view files local file include ^^^^
+
+
+Forum vBulletin
+
+https://www.visma.com/software/support/portal/ - not sure if its vulnerable couldnt find version. 
+
+
+
