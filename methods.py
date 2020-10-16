@@ -28,9 +28,9 @@ leonidus@bugbounty#:~ nikto -host https://target.com/ --use-proxy 127.0.0.1:9050
 this can provide some insight on what they are running, and maybe they are using outdated or vuln wordpress stuffs
 =========
 
-you can use this scan.yml for wpscan just dont overdo it
+ scan.yml for wpscan
 cli_options:
-  api_token: 54GLV4SM6gLnRWT4JUMDmGUMsMGs0CV3Lx22mWZ4gDA
+  api_token: <token here>
 
 =========
 
